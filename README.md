@@ -26,7 +26,7 @@ Note: If you are using npm v1.x be sure to install esvalidate locally (without t
 
 ## Text Editor Plugins
 
-* [sublime-esvalidate](https://github.com/duereg/sublime-jsvalidate) - `CTRL-SHIFT-V` on any .js file.
+* [sublime-jsvalidate](https://github.com/duereg/sublime-jsvalidate) - `CTRL-SHIFT-V` on any .js file.
 
 ## Custom Reporters
 
